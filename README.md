@@ -1,3 +1,3 @@
 # channel_manager
 
-A new Flutter project
+A new Flutter project.
